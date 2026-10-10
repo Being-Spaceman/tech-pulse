@@ -16,7 +16,7 @@ _The first snapshot will appear here._
 - **Snapshot:** the top 10 stories from the official Hacker News API, with the HN Algolia API as a fallback. If both fail, a "no data" row records the gap.
 - **Data:** one CSV per month in `data/YYYY/YYYY-MM.csv`. The section above is regenerated on every snapshot.
 - **No dependencies:** Python standard library and plain `git`. No third-party actions.
-- **Monitoring:** Healthchecks.io alerts by Telegram and email when a working day has no snapshot by 21:00 IST, a run fails, or the news source is down for 3 days.
+- **Monitoring:** Healthchecks.io alerts by email when a working day has no snapshot by 21:00 IST, a run fails, or the news source is down for 3 days.
 
 ## Data format
 
