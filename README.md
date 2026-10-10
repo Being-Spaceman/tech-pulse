@@ -7,7 +7,22 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-_The first snapshot will appear here._
+**Last snapshot:** Sun 11 Oct 2026 · 00:49 IST · Hacker News API
+
+| # | Story | Points | Comments |
+|--:|---|--:|--:|
+| 1 | [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) | 76 | 28 |
+| 2 | [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds) | 6 | 0 |
+| 3 | [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | 23 | 4 |
+| 4 | [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | 187 | 97 |
+| 5 | [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/) | 36 | 39 |
+| 6 | [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/) | 203 | 135 |
+| 7 | [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) | 102 | 19 |
+| 8 | [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) | 260 | 193 |
+| 9 | [REA Reverse – Engineer Anything](https://rea.tools/) | 627 | 269 |
+| 10 | [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart) | 47 | 17 |
+
+**Archive:** 1 snapshot on 1 day since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works

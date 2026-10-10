@@ -1,0 +1,11 @@
+snapshot_at,source,rank,hn_id,title,url,points,comments
+2026-10-11T00:49:01+05:30,hn,1,50034081,Knuth Reward Check,https://www.thomas-huehn.com/knuth-reward-check,76,28
+2026-10-11T00:49:01+05:30,hn,2,50036023,Cbirds: A flock of birds in your terminal,https://github.com/clainstone/cbirds,6,0
+2026-10-11T00:49:01+05:30,hn,3,49991852,2D Vehicles,https://patkerr.co.uk/2d-vehicles/,23,4
+2026-10-11T00:49:01+05:30,hn,4,50031614,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,https://github.com/rociiu/talorys,187,97
+2026-10-11T00:49:01+05:30,hn,5,49984349,OpenSCAD the Programmers Solid 3D CAD Modeller,https://openscad.org/,36,39
+2026-10-11T00:49:01+05:30,hn,6,49980880,Grieving the Loss of Details,https://purplesyringa.moe/blog/grieving-the-loss-of-details/,203,135
+2026-10-11T00:49:01+05:30,hn,7,50016956,Mxc: Microsoft Execution Containers version 1.0.0,https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/,102,19
+2026-10-11T00:49:01+05:30,hn,8,50033407,Bitwarden Dual License Model,https://community.bitwarden.com/t/published-version-update-in-app-stores/102750,260,193
+2026-10-11T00:49:01+05:30,hn,9,50028275,REA Reverse – Engineer Anything,https://rea.tools/,627,269
+2026-10-11T00:49:01+05:30,hn,10,50024242,Rampart: Browser native on-device PII radaction,https://ndstudio.gov/posts/say-hello-to-rampart,47,17
