@@ -1,0 +1,25 @@
+name: ci
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out with plain git (no third-party actions)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
+          git checkout --detach "${GITHUB_SHA}"
+          python3 --version
+          git --version
+
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -v

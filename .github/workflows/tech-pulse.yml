@@ -1,0 +1,59 @@
+name: tech-pulse
+
+on:
+  schedule:
+    # 12 runs, Monday to Saturday. Cron times are UTC; IST = UTC + 05:30.
+    # Minutes avoid :00 because GitHub delays (and can drop) runs at the top of the hour.
+    # Keep tests/test_schedule.py passing if you ever edit these lines.
+    - cron: "17 5,9,13 * * 1-6"    # 10:47, 14:47, 18:47 IST
+    - cron: "41 6,10,14 * * 1-6"   # 12:11, 16:11, 20:11 IST
+    - cron: "53 7,11,15 * * 1-6"   # 13:23, 17:23, 21:23 IST
+    - cron: "29 8,12,16 * * 1-6"   # 13:59, 17:59, 21:59 IST
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Take one snapshot now, whatever today's plan says"
+        type: boolean
+        default: false
+      simulate_failure:
+        description: "Fail on purpose, to test the alerts (makes no commit)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-pulse
+  cancel-in-progress: false
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TZ: Asia/Kolkata
+      PULSE_FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force }}
+      PULSE_SIMULATE_FAILURE: ${{ github.event_name == 'workflow_dispatch' && inputs.simulate_failure }}
+      HC_DAILY_URL: ${{ secrets.HC_DAILY_URL }}
+      HC_RUNS_URL: ${{ secrets.HC_RUNS_URL }}
+      HC_SOURCE_URL: ${{ secrets.HC_SOURCE_URL }}
+    steps:
+      - name: Check out with plain git (no third-party actions)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git clone --depth 30 "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
+          git log -1 --format='HEAD %h %cI'
+          python3 --version
+          git --version
+
+      - name: Take snapshots if due
+        run: python3 -m pulse
+
+      - name: Report failure to Healthchecks
+        if: ${{ failure() || cancelled() }}
+        run: |
+          if [ -n "${HC_RUNS_URL}" ]; then
+            curl -fsS -m 10 --retry 3 -o /dev/null "${HC_RUNS_URL}/fail" || true
+          fi
