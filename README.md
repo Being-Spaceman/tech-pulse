@@ -7,22 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Sun 11 Oct 2026 · 00:49 IST · Hacker News API
+**Last snapshot:** Mon 12 Oct 2026 · 18:36 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) | 76 | 28 |
-| 2 | [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds) | 6 | 0 |
-| 3 | [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | 23 | 4 |
-| 4 | [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | 187 | 97 |
-| 5 | [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/) | 36 | 39 |
-| 6 | [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/) | 203 | 135 |
-| 7 | [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) | 102 | 19 |
-| 8 | [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) | 260 | 193 |
-| 9 | [REA Reverse – Engineer Anything](https://rea.tools/) | 627 | 269 |
-| 10 | [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart) | 47 | 17 |
+| 1 | [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) | 149 | 108 |
+| 2 | [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo) | 338 | 98 |
+| 3 | [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/) | 39 | 8 |
+| 4 | [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search) | 57 | 24 |
+| 5 | [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | 480 | 237 |
+| 6 | [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html) | 151 | 62 |
+| 7 | [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 56 | 27 |
+| 8 | [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp) | 99 | 46 |
+| 9 | [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | 567 | 215 |
+| 10 | [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo) | 26 | 19 |
 
-**Archive:** 1 snapshot on 1 day since 11 Oct 2026, in monthly CSV files under [data/](data/).
+10 of these stories are new since the previous snapshot (Sun 11 Oct 2026 · 00:49 IST).
+
+**Archive:** 2 snapshots on 2 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
