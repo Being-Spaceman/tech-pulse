@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Mon 12 Oct 2026 · 18:36 IST · Hacker News API
+**Last snapshot:** Tue 13 Oct 2026 · 18:10 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) | 149 | 108 |
-| 2 | [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo) | 338 | 98 |
-| 3 | [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/) | 39 | 8 |
-| 4 | [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search) | 57 | 24 |
-| 5 | [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | 480 | 237 |
-| 6 | [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html) | 151 | 62 |
-| 7 | [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 56 | 27 |
-| 8 | [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp) | 99 | 46 |
-| 9 | [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | 567 | 215 |
-| 10 | [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo) | 26 | 19 |
+| 1 | [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) | 224 | 94 |
+| 2 | [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/) | 85 | 25 |
+| 3 | [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | 53 | 31 |
+| 4 | [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107) | 135 | 18 |
+| 5 | [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran) | 138 | 37 |
+| 6 | [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) | 325 | 90 |
+| 7 | [GLM-Legal](https://z.ai/blog/glm-legal) | 601 | 335 |
+| 8 | [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) | 259 | 127 |
+| 9 | [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 761 | 888 |
+| 10 | [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | 613 | 268 |
 
-10 of these stories are new since the previous snapshot (Sun 11 Oct 2026 · 00:49 IST).
+9 of these stories are new since the previous snapshot (Mon 12 Oct 2026 · 18:36 IST).
 
-**Archive:** 2 snapshots on 2 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 3 snapshots on 3 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
