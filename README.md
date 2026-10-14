@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Tue 13 Oct 2026 · 18:10 IST · Hacker News API
+**Last snapshot:** Wed 14 Oct 2026 · 15:39 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) | 224 | 94 |
-| 2 | [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/) | 85 | 25 |
-| 3 | [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | 53 | 31 |
-| 4 | [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107) | 135 | 18 |
-| 5 | [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran) | 138 | 37 |
-| 6 | [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) | 325 | 90 |
-| 7 | [GLM-Legal](https://z.ai/blog/glm-legal) | 601 | 335 |
-| 8 | [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) | 259 | 127 |
-| 9 | [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 761 | 888 |
-| 10 | [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | 613 | 268 |
+| 1 | [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/) | 78 | 18 |
+| 2 | [Gemini 4 Argon](https://deepmind.google/models/gemini/) | 1,311 | 911 |
+| 3 | [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) | 124 | 19 |
+| 4 | [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | 695 | 444 |
+| 5 | [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/) | 11 | 4 |
+| 6 | [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260) | 257 | 119 |
+| 7 | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | 776 | 789 |
+| 8 | [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | 435 | 111 |
+| 9 | [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) | 164 | 21 |
+| 10 | [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex) | 36 | 21 |
 
-9 of these stories are new since the previous snapshot (Mon 12 Oct 2026 · 18:36 IST).
+10 of these stories are new since the previous snapshot (Tue 13 Oct 2026 · 18:10 IST).
 
-**Archive:** 3 snapshots on 3 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 4 snapshots on 4 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
