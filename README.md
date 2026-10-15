@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Thu 15 Oct 2026 · 15:21 IST · Hacker News API
+**Last snapshot:** Thu 15 Oct 2026 · 23:15 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 1,361 | 336 |
-| 2 | [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 83 | 31 |
-| 3 | [Creating a Garmin "MCP"](https://jackantico.io/garmin-mcp) | 38 | 37 |
-| 4 | [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 614 | 241 |
-| 5 | [Tiny Little Office](https://tinylittleoffice.com/) | 436 | 70 |
-| 6 | [Show HN: Indigene – Native plants for where you stand](https://indigene.app/) | 25 | 5 |
-| 7 | [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) | 212 | 44 |
-| 8 | [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) | 698 | 507 |
-| 9 | [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/) | 5 | 0 |
-| 10 | [Catch a Bird – I made it for my own sanity](https://catchabird.com) | 176 | 44 |
+| 1 | [Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/) | 156 | 122 |
+| 2 | [Neural Networks Are Already Clean](https://already-clean.goodfire.com/) | 92 | 24 |
+| 3 | [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | 285 | 115 |
+| 4 | [Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro](https://www.krea.ai/krea-3) | 74 | 36 |
+| 5 | [I Know Why the Mathematicians Weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) | 215 | 325 |
+| 6 | [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html) | 181 | 94 |
+| 7 | [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/) | 95 | 46 |
+| 8 | [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/) | 36 | 3 |
+| 9 | [Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love](https://www.seriouseats.com/biscoff-history-12168161) | 49 | 37 |
+| 10 | [Zero-Click Spyware Delivered via Targeted Ads: AdFection](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) | 186 | 30 |
 
-10 of these stories are new since the previous snapshot (Wed 14 Oct 2026 · 15:39 IST).
+10 of these stories are new since the previous snapshot (Thu 15 Oct 2026 · 15:21 IST).
 
-**Archive:** 5 snapshots on 5 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 6 snapshots on 5 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
