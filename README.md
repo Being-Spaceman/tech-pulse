@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Wed 14 Oct 2026 · 15:39 IST · Hacker News API
+**Last snapshot:** Thu 15 Oct 2026 · 15:21 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/) | 78 | 18 |
-| 2 | [Gemini 4 Argon](https://deepmind.google/models/gemini/) | 1,311 | 911 |
-| 3 | [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) | 124 | 19 |
-| 4 | [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | 695 | 444 |
-| 5 | [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/) | 11 | 4 |
-| 6 | [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260) | 257 | 119 |
-| 7 | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | 776 | 789 |
-| 8 | [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | 435 | 111 |
-| 9 | [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) | 164 | 21 |
-| 10 | [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex) | 36 | 21 |
+| 1 | [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 1,361 | 336 |
+| 2 | [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 83 | 31 |
+| 3 | [Creating a Garmin "MCP"](https://jackantico.io/garmin-mcp) | 38 | 37 |
+| 4 | [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 614 | 241 |
+| 5 | [Tiny Little Office](https://tinylittleoffice.com/) | 436 | 70 |
+| 6 | [Show HN: Indigene – Native plants for where you stand](https://indigene.app/) | 25 | 5 |
+| 7 | [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) | 212 | 44 |
+| 8 | [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) | 698 | 507 |
+| 9 | [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/) | 5 | 0 |
+| 10 | [Catch a Bird – I made it for my own sanity](https://catchabird.com) | 176 | 44 |
 
-10 of these stories are new since the previous snapshot (Tue 13 Oct 2026 · 18:10 IST).
+10 of these stories are new since the previous snapshot (Wed 14 Oct 2026 · 15:39 IST).
 
-**Archive:** 4 snapshots on 4 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 5 snapshots on 5 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
