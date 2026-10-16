@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Thu 15 Oct 2026 · 23:15 IST · Hacker News API
+**Last snapshot:** Fri 16 Oct 2026 · 15:15 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/) | 156 | 122 |
-| 2 | [Neural Networks Are Already Clean](https://already-clean.goodfire.com/) | 92 | 24 |
-| 3 | [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | 285 | 115 |
-| 4 | [Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro](https://www.krea.ai/krea-3) | 74 | 36 |
-| 5 | [I Know Why the Mathematicians Weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) | 215 | 325 |
-| 6 | [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html) | 181 | 94 |
-| 7 | [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/) | 95 | 46 |
-| 8 | [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/) | 36 | 3 |
-| 9 | [Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love](https://www.seriouseats.com/biscoff-history-12168161) | 49 | 37 |
-| 10 | [Zero-Click Spyware Delivered via Targeted Ads: AdFection](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) | 186 | 30 |
+| 1 | [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | 290 | 104 |
+| 2 | [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | 813 | 402 |
+| 3 | [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds \[video\]](https://www.youtube.com/watch?v=sjNpfz4UzqU) | 289 | 93 |
+| 4 | [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/) | 24 | 11 |
+| 5 | [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | 157 | 49 |
+| 6 | [The Folders Programming Language](https://danieltemkin.com/esolangs/folders) | 54 | 8 |
+| 7 | [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban) | 37 | 25 |
+| 8 | [Neural networks are clean](https://already-clean.goodfire.com/) | 682 | 254 |
+| 9 | [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) | 10 | 0 |
+| 10 | [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) | 483 | 297 |
 
-10 of these stories are new since the previous snapshot (Thu 15 Oct 2026 · 15:21 IST).
+9 of these stories are new since the previous snapshot (Thu 15 Oct 2026 · 23:15 IST).
 
-**Archive:** 6 snapshots on 5 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 7 snapshots on 6 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
