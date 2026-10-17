@@ -69,3 +69,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-16T15:15:09+05:30,hn,8,50105647,Neural networks are clean,https://already-clean.goodfire.com/,682,254
 2026-10-16T15:15:09+05:30,hn,9,50072485,Two-Stack Sliding-Window Aggregation,https://orlp.net/blog/two-stack-sliding-window-aggregation/,10,0
 2026-10-16T15:15:09+05:30,hn,10,50109715,What I self-host,https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/,483,297
+2026-10-17T14:48:30+05:30,hn,1,50129121,DeepSeek: DeepSeek v4.1 Flash 1017,https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017,43,2
+2026-10-17T14:48:30+05:30,hn,2,50106747,Ultramarine 1 Flash,https://www.paperinstruments.com/ultramarine,235,68
+2026-10-17T14:48:30+05:30,hn,3,50127979,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,https://llmspeed.dev/,65,23
+2026-10-17T14:48:30+05:30,hn,4,50112657,Tesla Roadster,https://www.tesla.com/roadster,1417,2487
+2026-10-17T14:48:30+05:30,hn,5,50129045,DeepSeek-v4.1-Flash-1017,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017,67,21
+2026-10-17T14:48:30+05:30,hn,6,50103255,Intuitive concurrent programming in any language,https://www.lf-lang.org/,33,6
+2026-10-17T14:48:30+05:30,hn,7,50122431,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,287,72
+2026-10-17T14:48:30+05:30,hn,8,50122878,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,296,68
+2026-10-17T14:48:30+05:30,hn,9,50122800,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,863,321
+2026-10-17T14:48:30+05:30,hn,10,50123580,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,166,45

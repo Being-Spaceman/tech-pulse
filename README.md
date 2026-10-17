@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Fri 16 Oct 2026 · 15:15 IST · Hacker News API
+**Last snapshot:** Sat 17 Oct 2026 · 14:48 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | 290 | 104 |
-| 2 | [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | 813 | 402 |
-| 3 | [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds \[video\]](https://www.youtube.com/watch?v=sjNpfz4UzqU) | 289 | 93 |
-| 4 | [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/) | 24 | 11 |
-| 5 | [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | 157 | 49 |
-| 6 | [The Folders Programming Language](https://danieltemkin.com/esolangs/folders) | 54 | 8 |
-| 7 | [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban) | 37 | 25 |
-| 8 | [Neural networks are clean](https://already-clean.goodfire.com/) | 682 | 254 |
-| 9 | [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) | 10 | 0 |
-| 10 | [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) | 483 | 297 |
+| 1 | [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | 43 | 2 |
+| 2 | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | 235 | 68 |
+| 3 | [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 65 | 23 |
+| 4 | [Tesla Roadster](https://www.tesla.com/roadster) | 1,417 | 2,487 |
+| 5 | [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 67 | 21 |
+| 6 | [Intuitive concurrent programming in any language](https://www.lf-lang.org/) | 33 | 6 |
+| 7 | [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | 287 | 72 |
+| 8 | [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | 296 | 68 |
+| 9 | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | 863 | 321 |
+| 10 | [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) | 166 | 45 |
 
-9 of these stories are new since the previous snapshot (Thu 15 Oct 2026 · 23:15 IST).
+10 of these stories are new since the previous snapshot (Fri 16 Oct 2026 · 15:15 IST).
 
-**Archive:** 7 snapshots on 6 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 8 snapshots on 7 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
