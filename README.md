@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Mon 19 Oct 2026 · 16:13 IST · Hacker News API
+**Last snapshot:** Mon 19 Oct 2026 · 19:27 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Linux 7.3 Released](https://lwn.net/Articles/1101143/) | 216 | 97 |
-| 2 | [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 403 | 196 |
-| 3 | [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot) | 44 | 14 |
-| 4 | [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html) | 91 | 84 |
-| 5 | [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) | 191 | 72 |
-| 6 | [There's never been a better time to go into math (by: 3blue1brown) \[video\]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | 383 | 460 |
-| 7 | [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/) | 38 | 21 |
-| 8 | [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) | 175 | 121 |
-| 9 | [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | 452 | 167 |
-| 10 | [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448) | 135 | 59 |
+| 1 | [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) | 386 | 190 |
+| 2 | [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | 41 | 16 |
+| 3 | [Linux 7.3 Released](https://lwn.net/Articles/1101143/) | 389 | 170 |
+| 4 | [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/) | 193 | 36 |
+| 5 | [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166) | 74 | 22 |
+| 6 | [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing) | 71 | 10 |
+| 7 | [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101) | 76 | 33 |
+| 8 | [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous) | 31 | 0 |
+| 9 | [Gdynia and the Dream of a Maritime Poland](https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/) | 48 | 13 |
+| 10 | [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/) | 29 | 2 |
 
-10 of these stories are new since the previous snapshot (Sat 17 Oct 2026 · 14:48 IST).
+9 of these stories are new since the previous snapshot (Mon 19 Oct 2026 · 16:13 IST).
 
-**Archive:** 9 snapshots on 8 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 10 snapshots on 8 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
