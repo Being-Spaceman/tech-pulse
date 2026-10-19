@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Sat 17 Oct 2026 · 14:48 IST · Hacker News API
+**Last snapshot:** Mon 19 Oct 2026 · 16:13 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | 43 | 2 |
-| 2 | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | 235 | 68 |
-| 3 | [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 65 | 23 |
-| 4 | [Tesla Roadster](https://www.tesla.com/roadster) | 1,417 | 2,487 |
-| 5 | [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 67 | 21 |
-| 6 | [Intuitive concurrent programming in any language](https://www.lf-lang.org/) | 33 | 6 |
-| 7 | [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | 287 | 72 |
-| 8 | [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | 296 | 68 |
-| 9 | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | 863 | 321 |
-| 10 | [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) | 166 | 45 |
+| 1 | [Linux 7.3 Released](https://lwn.net/Articles/1101143/) | 216 | 97 |
+| 2 | [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 403 | 196 |
+| 3 | [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot) | 44 | 14 |
+| 4 | [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html) | 91 | 84 |
+| 5 | [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) | 191 | 72 |
+| 6 | [There's never been a better time to go into math (by: 3blue1brown) \[video\]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | 383 | 460 |
+| 7 | [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/) | 38 | 21 |
+| 8 | [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) | 175 | 121 |
+| 9 | [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | 452 | 167 |
+| 10 | [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448) | 135 | 59 |
 
-10 of these stories are new since the previous snapshot (Fri 16 Oct 2026 · 15:15 IST).
+10 of these stories are new since the previous snapshot (Sat 17 Oct 2026 · 14:48 IST).
 
-**Archive:** 8 snapshots on 7 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 9 snapshots on 8 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
