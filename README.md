@@ -22,9 +22,9 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 | 9 | [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/) | 59 | 10 |
 | 10 | [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon) | 30 | 3 |
 
-8 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 19:15 IST).
+0 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 23:27 IST).
 
-**Archive:** 15 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 16 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
