@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Mon 19 Oct 2026 · 19:27 IST · Hacker News API
+**Last snapshot:** Tue 20 Oct 2026 · 15:30 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) | 386 | 190 |
-| 2 | [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | 41 | 16 |
-| 3 | [Linux 7.3 Released](https://lwn.net/Articles/1101143/) | 389 | 170 |
-| 4 | [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/) | 193 | 36 |
-| 5 | [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166) | 74 | 22 |
-| 6 | [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing) | 71 | 10 |
-| 7 | [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101) | 76 | 33 |
-| 8 | [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous) | 31 | 0 |
-| 9 | [Gdynia and the Dream of a Maritime Poland](https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/) | 48 | 13 |
-| 10 | [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/) | 29 | 2 |
+| 1 | [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) | 62 | 12 |
+| 2 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 256 | 82 |
+| 3 | [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules) | 16 | 0 |
+| 4 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 300 | 90 |
+| 5 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 31 | 3 |
+| 6 | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 439 | 125 |
+| 7 | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 38 | 1 |
+| 8 | [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8) | 56 | 4 |
+| 9 | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 252 | 210 |
+| 10 | [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | 467 | 198 |
 
-9 of these stories are new since the previous snapshot (Mon 19 Oct 2026 · 16:13 IST).
+10 of these stories are new since the previous snapshot (Mon 19 Oct 2026 · 19:27 IST).
 
-**Archive:** 10 snapshots on 8 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 11 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
