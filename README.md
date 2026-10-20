@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Tue 20 Oct 2026 · 18:36 IST · Hacker News API
+**Last snapshot:** Tue 20 Oct 2026 · 19:15 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 859 | 294 |
-| 2 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 374 | 113 |
-| 3 | [Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752) | 18 | 10 |
-| 4 | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 173 | 18 |
-| 5 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 367 | 115 |
-| 6 | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 566 | 159 |
-| 7 | [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) | 80 | 10 |
-| 8 | [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) | 114 | 49 |
-| 9 | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 361 | 317 |
-| 10 | ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/) | 26 | 9 |
+| 1 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 1,032 | 353 |
+| 2 | [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | 41 | 9 |
+| 3 | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 202 | 19 |
+| 4 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 396 | 119 |
+| 5 | [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid) | 16 | 1 |
+| 6 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 385 | 122 |
+| 7 | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 593 | 168 |
+| 8 | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 392 | 337 |
+| 9 | [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) | 90 | 13 |
+| 10 | [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) | 139 | 59 |
 
-2 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 17:42 IST).
+2 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 18:36 IST).
 
-**Archive:** 13 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 14 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works

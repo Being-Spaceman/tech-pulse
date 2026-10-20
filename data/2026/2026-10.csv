@@ -129,3 +129,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-20T18:36:00+05:30,hn,8,50163961,Google cloud outage takes down banks,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,114,49
 2026-10-20T18:36:00+05:30,hn,9,50154244,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,361,317
 2026-10-20T18:36:00+05:30,hn,10,50147034,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,26,9
+2026-10-20T19:15:57+05:30,hn,1,50163277,DeepSeek just open-sourced its inference engine,https://github.com/deepseek-ai/DeepInfer,1032,353
+2026-10-20T19:15:57+05:30,hn,2,50165208,Apple broke an essential presentation feature of iPads,https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/,41,9
+2026-10-20T19:15:57+05:30,hn,3,50162177,MicroG: Free-libre re-implementation of Google's proprietary Android user space,https://github.com/microg/GmsCore/wiki,202,19
+2026-10-20T19:15:57+05:30,hn,4,50141581,Nordwand Mono – A monospace font for coders and adventurers,https://github.com/tywr/Nordwand-Mono,396,119
+2026-10-20T19:15:57+05:30,hn,5,50165484,NixOS is making me less afraid,https://entropicthoughts.com/nixos-is-making-me-less-afraid,16,1
+2026-10-20T19:15:57+05:30,hn,6,50160494,OpenBSD 8.0,https://www.openbsd.org/80.html,385,122
+2026-10-20T19:15:57+05:30,hn,7,50159341,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions,593,168
+2026-10-20T19:15:57+05:30,hn,8,50154244,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,392,337
+2026-10-20T19:15:57+05:30,hn,9,50132198,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,90,13
+2026-10-20T19:15:57+05:30,hn,10,50163961,Google cloud outage takes down banks,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,139,59
