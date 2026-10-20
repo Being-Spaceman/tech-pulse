@@ -119,3 +119,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-20T17:42:14+05:30,hn,8,50147034,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,14,2
 2026-10-20T17:42:14+05:30,hn,9,50154244,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,324,290
 2026-10-20T17:42:14+05:30,hn,10,50132198,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,59,6
+2026-10-20T18:36:00+05:30,hn,1,50163277,DeepSeek just open-sourced its inference engine,https://github.com/deepseek-ai/DeepInfer,859,294
+2026-10-20T18:36:00+05:30,hn,2,50141581,Nordwand Mono – A monospace font for coders and adventurers,https://github.com/tywr/Nordwand-Mono,374,113
+2026-10-20T18:36:00+05:30,hn,3,50165276,"Demographic ""Doomsday"" Misses the Mark",https://www.science.org/doi/10.1126/science.ael8752,18,10
+2026-10-20T18:36:00+05:30,hn,4,50162177,MicroG: Free-libre re-implementation of Google's proprietary Android user space,https://github.com/microg/GmsCore/wiki,173,18
+2026-10-20T18:36:00+05:30,hn,5,50160494,OpenBSD 8.0,https://www.openbsd.org/80.html,367,115
+2026-10-20T18:36:00+05:30,hn,6,50159341,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions,566,159
+2026-10-20T18:36:00+05:30,hn,7,50132198,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,80,10
+2026-10-20T18:36:00+05:30,hn,8,50163961,Google cloud outage takes down banks,https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/,114,49
+2026-10-20T18:36:00+05:30,hn,9,50154244,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,361,317
+2026-10-20T18:36:00+05:30,hn,10,50147034,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,26,9
