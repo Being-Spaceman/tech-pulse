@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Tue 20 Oct 2026 · 19:15 IST · Hacker News API
+**Last snapshot:** Tue 20 Oct 2026 · 23:27 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 1,032 | 353 |
-| 2 | [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | 41 | 9 |
-| 3 | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 202 | 19 |
-| 4 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 396 | 119 |
-| 5 | [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid) | 16 | 1 |
-| 6 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 385 | 122 |
-| 7 | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 593 | 168 |
-| 8 | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 392 | 337 |
-| 9 | [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) | 90 | 13 |
-| 10 | [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) | 139 | 59 |
+| 1 | [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 193 | 52 |
+| 2 | [DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) | 1,871 | 708 |
+| 3 | [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) | 263 | 119 |
+| 4 | [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | 319 | 175 |
+| 5 | [What Shall I Teach My Son?](https://stevekrouse.com/ends) | 19 | 10 |
+| 6 | [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) | 51 | 14 |
+| 7 | [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web) | 217 | 112 |
+| 8 | [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/) | 181 | 53 |
+| 9 | [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/) | 59 | 10 |
+| 10 | [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon) | 30 | 3 |
 
-2 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 18:36 IST).
+8 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 19:15 IST).
 
-**Archive:** 14 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 15 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
