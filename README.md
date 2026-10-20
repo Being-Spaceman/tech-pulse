@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Tue 20 Oct 2026 · 15:30 IST · Hacker News API
+**Last snapshot:** Tue 20 Oct 2026 · 17:42 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) | 62 | 12 |
-| 2 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 256 | 82 |
-| 3 | [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules) | 16 | 0 |
-| 4 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 300 | 90 |
-| 5 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 31 | 3 |
-| 6 | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 439 | 125 |
-| 7 | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 38 | 1 |
-| 8 | [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8) | 56 | 4 |
-| 9 | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 252 | 210 |
-| 10 | [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | 467 | 198 |
+| 1 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 627 | 219 |
+| 2 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 331 | 103 |
+| 3 | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 125 | 8 |
+| 4 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 342 | 108 |
+| 5 | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 514 | 148 |
+| 6 | [There is no official XScreenSaver GitHub repository](https://github.com/xscreensaver-official/xscreensaver) | 58 | 29 |
+| 7 | [Restoration of Retinal Regenerative Potential (2025)](https://www.nature.com/articles/s41467-025-58290-8) | 75 | 6 |
+| 8 | ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/) | 14 | 2 |
+| 9 | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 324 | 290 |
+| 10 | [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) | 59 | 6 |
 
-10 of these stories are new since the previous snapshot (Mon 19 Oct 2026 · 19:27 IST).
+3 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 15:30 IST).
 
-**Archive:** 11 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 12 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works

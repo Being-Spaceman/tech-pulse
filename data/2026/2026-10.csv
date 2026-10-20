@@ -109,3 +109,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-20T15:30:03+05:30,hn,8,50140111,Restoration of Retinal Regenerative Potential,https://www.nature.com/articles/s41467-025-58290-8,56,4
 2026-10-20T15:30:03+05:30,hn,9,50154244,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,252,210
 2026-10-20T15:30:03+05:30,hn,10,50154540,MiniMax M3.1 Flash,https://www.minimax.io/blog/minimax-m31f,467,198
+2026-10-20T17:42:14+05:30,hn,1,50163277,DeepSeek just open-sourced its inference engine,https://github.com/deepseek-ai/DeepInfer,627,219
+2026-10-20T17:42:14+05:30,hn,2,50141581,Nordwand Mono – A monospace font for coders and adventurers,https://github.com/tywr/Nordwand-Mono,331,103
+2026-10-20T17:42:14+05:30,hn,3,50162177,MicroG: Free-libre re-implementation of Google's proprietary Android user space,https://github.com/microg/GmsCore/wiki,125,8
+2026-10-20T17:42:14+05:30,hn,4,50160494,OpenBSD 8.0,https://www.openbsd.org/80.html,342,108
+2026-10-20T17:42:14+05:30,hn,5,50159341,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions,514,148
+2026-10-20T17:42:14+05:30,hn,6,50163142,There is no official XScreenSaver GitHub repository,https://github.com/xscreensaver-official/xscreensaver,58,29
+2026-10-20T17:42:14+05:30,hn,7,50140111,Restoration of Retinal Regenerative Potential (2025),https://www.nature.com/articles/s41467-025-58290-8,75,6
+2026-10-20T17:42:14+05:30,hn,8,50147034,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/,14,2
+2026-10-20T17:42:14+05:30,hn,9,50154244,DeepSeek banned from U.S. federal civilian agencies under new DHS order,https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/,324,290
+2026-10-20T17:42:14+05:30,hn,10,50132198,Making a 88x31 button book using ImageMagick,https://k.sosnierz.me/08-11-24/,59,6
