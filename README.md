@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Wed 21 Oct 2026 · 17:55 IST · Hacker News API
+**Last snapshot:** Wed 21 Oct 2026 · 19:31 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 285 | 116 |
-| 2 | [Does Ruby on Rails still make sense?](https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/) | 53 | 40 |
-| 3 | [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) | 48 | 21 |
-| 4 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 432 | 176 |
-| 5 | [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) | 408 | 444 |
-| 6 | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 1,145 | 458 |
-| 7 | [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | 832 | 386 |
-| 8 | [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303) | 46 | 12 |
-| 9 | [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/) | 219 | 105 |
-| 10 | [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) | 1,037 | 417 |
+| 1 | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35) | 103 | 23 |
+| 2 | [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php) | 58 | 7 |
+| 3 | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 430 | 195 |
+| 4 | [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities) | 117 | 55 |
+| 5 | [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/) | 31 | 12 |
+| 6 | [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) | 26 | 11 |
+| 7 | [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) | 95 | 51 |
+| 8 | [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce) | 8 | 0 |
+| 9 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 486 | 200 |
+| 10 | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 1,342 | 562 |
 
-3 of these stories are new since the previous snapshot (Wed 21 Oct 2026 · 15:35 IST).
+6 of these stories are new since the previous snapshot (Wed 21 Oct 2026 · 17:55 IST).
 
-**Archive:** 21 snapshots on 10 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 22 snapshots on 10 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works

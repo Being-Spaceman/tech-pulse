@@ -209,3 +209,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-21T17:55:43+05:30,hn,8,50150214,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,46,12
 2026-10-21T17:55:43+05:30,hn,9,50174687,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,219,105
 2026-10-21T17:55:43+05:30,hn,10,50166579,eMudhra intermediate CA compromise,https://emudhra.we-have-a-problem.com/,1037,417
+2026-10-21T19:31:26+05:30,hn,1,50180873,Updated PHP version released to GitHub,https://github.com/php/php-src/releases/tag/php-8.2.35,103,23
+2026-10-21T19:31:26+05:30,hn,2,50180943,"PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",https://www.php.net/index.php,58,7
+2026-10-21T19:31:26+05:30,hn,3,50177916,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,430,195
+2026-10-21T19:31:26+05:30,hn,4,50179706,Qwen3-Coder writes less secure code when told it's for a US persona,https://www.hirundo.io/blog/qwen3-coder-vulnerabilities,117,55
+2026-10-21T19:31:26+05:30,hn,5,50180444,Most advice is right for the person giving it,https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/,31,12
+2026-10-21T19:31:26+05:30,hn,6,50179857,LayerFS: The filesystem for AI coding agents,https://layerfs.ai/,26,11
+2026-10-21T19:31:26+05:30,hn,7,50178455,Whatever Happened to Fire Escapes,https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes,95,51
+2026-10-21T19:31:26+05:30,hn,8,50180836,PHP2Shell: AI uncovers critical RCE in PHP,https://www.wiz.io/blog/php2shell-php-rce,8,0
+2026-10-21T19:31:26+05:30,hn,9,50175070,The Future of CSS,https://www.joshwcomeau.com/css/interop-2027/,486,200
+2026-10-21T19:31:26+05:30,hn,10,50172041,Upcoming critical PHP security release (CVE-2026-109618 / -109619),https://news-web.php.net/php.announce/509,1342,562
