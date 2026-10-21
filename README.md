@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Wed 21 Oct 2026 · 15:35 IST · Hacker News API
+**Last snapshot:** Wed 21 Oct 2026 · 17:55 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) | 121 | 101 |
-| 2 | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 39 | 13 |
-| 3 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 378 | 156 |
-| 4 | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 868 | 351 |
-| 5 | [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | 799 | 376 |
-| 6 | [The Decoherence Trap](https://maevyn.codes/decoherence) | 45 | 12 |
-| 7 | [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/) | 178 | 75 |
-| 8 | [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) | 958 | 401 |
-| 9 | [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 676 | 169 |
-| 10 | [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) | 203 | 94 |
+| 1 | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 285 | 116 |
+| 2 | [Does Ruby on Rails still make sense?](https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/) | 53 | 40 |
+| 3 | [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) | 48 | 21 |
+| 4 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 432 | 176 |
+| 5 | [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) | 408 | 444 |
+| 6 | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 1,145 | 458 |
+| 7 | [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | 832 | 386 |
+| 8 | [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303) | 46 | 12 |
+| 9 | [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/) | 219 | 105 |
+| 10 | [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) | 1,037 | 417 |
 
-8 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 23:27 IST).
+3 of these stories are new since the previous snapshot (Wed 21 Oct 2026 · 15:35 IST).
 
-**Archive:** 20 snapshots on 10 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 21 snapshots on 10 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
