@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Tue 20 Oct 2026 · 23:27 IST · Hacker News API
+**Last snapshot:** Wed 21 Oct 2026 · 15:35 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 193 | 52 |
-| 2 | [DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) | 1,871 | 708 |
-| 3 | [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) | 263 | 119 |
-| 4 | [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | 319 | 175 |
-| 5 | [What Shall I Teach My Son?](https://stevekrouse.com/ends) | 19 | 10 |
-| 6 | [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) | 51 | 14 |
-| 7 | [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web) | 217 | 112 |
-| 8 | [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/) | 181 | 53 |
-| 9 | [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/) | 59 | 10 |
-| 10 | [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon) | 30 | 3 |
+| 1 | [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) | 121 | 101 |
+| 2 | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 39 | 13 |
+| 3 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 378 | 156 |
+| 4 | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 868 | 351 |
+| 5 | [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | 799 | 376 |
+| 6 | [The Decoherence Trap](https://maevyn.codes/decoherence) | 45 | 12 |
+| 7 | [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/) | 178 | 75 |
+| 8 | [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) | 958 | 401 |
+| 9 | [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 676 | 169 |
+| 10 | [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) | 203 | 94 |
 
-0 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 23:27 IST).
+8 of these stories are new since the previous snapshot (Tue 20 Oct 2026 · 23:27 IST).
 
-**Archive:** 19 snapshots on 9 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 20 snapshots on 10 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
