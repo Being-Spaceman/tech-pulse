@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Thu 22 Oct 2026 · 15:37 IST · Hacker News API
+**Last snapshot:** Thu 22 Oct 2026 · 19:29 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) | 79 | 20 |
-| 2 | [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | 209 | 66 |
-| 3 | [The recently proposed o(n log n) integer multiplication algorithm \[pdf\]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) | 207 | 138 |
-| 4 | [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) | 6 | 0 |
-| 5 | [Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/) | 15 | 1 |
-| 6 | [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | 466 | 271 |
-| 7 | [Claude Duet](https://claude.com/product/claude-duet) | 382 | 348 |
-| 8 | [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) | 316 | 194 |
-| 9 | [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) | 97 | 49 |
-| 10 | [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | 517 | 170 |
+| 1 | [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) | 296 | 93 |
+| 2 | [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation) | 114 | 28 |
+| 3 | [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) | 299 | 104 |
+| 4 | [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) | 111 | 20 |
+| 5 | [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) | 92 | 28 |
+| 6 | [eMudhra to Exit Global SSL/TLS Certificate Business;](https://news.ycombinator.com/item?id=50194909) | 51 | 13 |
+| 7 | [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | 348 | 110 |
+| 8 | [Startup taps underwater volcano as energy source in "proof point" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/) | 53 | 20 |
+| 9 | [The painter behind Manhattan’s Gilded Age interiors](https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/) | 13 | 0 |
+| 10 | [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities) | 127 | 29 |
 
-10 of these stories are new since the previous snapshot (Wed 21 Oct 2026 · 19:31 IST).
+7 of these stories are new since the previous snapshot (Thu 22 Oct 2026 · 15:37 IST).
 
-**Archive:** 23 snapshots on 11 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 24 snapshots on 11 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works

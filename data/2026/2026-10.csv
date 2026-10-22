@@ -229,3 +229,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-22T15:37:44+05:30,hn,8,50161346,No more icons in every menu by default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,316,194
 2026-10-22T15:37:44+05:30,hn,9,50176082,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,97,49
 2026-10-22T15:37:44+05:30,hn,10,50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,517,170
+2026-10-22T19:29:35+05:30,hn,1,50192900,CVE-2026-111943: Compromised Intermediate Certificate Authority,https://nvd.nist.gov/vuln/detail/cve-2026-111943,296,93
+2026-10-22T19:29:35+05:30,hn,2,50150163,What Is Gridifcation,https://musicalform.substack.com/p/what-is-gridifcation,114,28
+2026-10-22T19:29:35+05:30,hn,3,50192536,Jailbreaking the Switch 2,https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/,299,104
+2026-10-22T19:29:35+05:30,hn,4,50193170,Faster than earcut: triangulating 3.7M map polygons in 489 ms,https://globus.software/blog/2026/10/16/cutting-map-polygons/,111,20
+2026-10-22T19:29:35+05:30,hn,5,50194833,Woman faces six years in prison over Cash App account she never opened,https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html,92,28
+2026-10-22T19:29:35+05:30,hn,6,50194909,eMudhra to Exit Global SSL/TLS Certificate Business;,https://news.ycombinator.com/item?id=50194909,51,13
+2026-10-22T19:29:35+05:30,hn,7,50190363,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,348,110
+2026-10-22T19:29:35+05:30,hn,8,50157456,"Startup taps underwater volcano as energy source in ""proof point"" test",https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,53,20
+2026-10-22T19:29:35+05:30,hn,9,50173944,The painter behind Manhattan’s Gilded Age interiors,https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/,13,0
+2026-10-22T19:29:35+05:30,hn,10,50193804,Several Linux kernel vulnerabilities accidentally posted to public mailing list,https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities,127,29
