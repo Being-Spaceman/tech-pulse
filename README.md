@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Wed 21 Oct 2026 · 19:31 IST · Hacker News API
+**Last snapshot:** Thu 22 Oct 2026 · 15:37 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35) | 103 | 23 |
-| 2 | [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php) | 58 | 7 |
-| 3 | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 430 | 195 |
-| 4 | [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities) | 117 | 55 |
-| 5 | [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/) | 31 | 12 |
-| 6 | [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) | 26 | 11 |
-| 7 | [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) | 95 | 51 |
-| 8 | [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce) | 8 | 0 |
-| 9 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 486 | 200 |
-| 10 | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 1,342 | 562 |
+| 1 | [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) | 79 | 20 |
+| 2 | [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | 209 | 66 |
+| 3 | [The recently proposed o(n log n) integer multiplication algorithm \[pdf\]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) | 207 | 138 |
+| 4 | [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) | 6 | 0 |
+| 5 | [Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/) | 15 | 1 |
+| 6 | [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | 466 | 271 |
+| 7 | [Claude Duet](https://claude.com/product/claude-duet) | 382 | 348 |
+| 8 | [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) | 316 | 194 |
+| 9 | [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) | 97 | 49 |
+| 10 | [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | 517 | 170 |
 
-6 of these stories are new since the previous snapshot (Wed 21 Oct 2026 · 17:55 IST).
+10 of these stories are new since the previous snapshot (Wed 21 Oct 2026 · 19:31 IST).
 
-**Archive:** 22 snapshots on 10 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 23 snapshots on 11 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
