@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Thu 22 Oct 2026 · 19:29 IST · Hacker News API
+**Last snapshot:** Fri 23 Oct 2026 · 15:30 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) | 296 | 93 |
-| 2 | [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation) | 114 | 28 |
-| 3 | [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) | 299 | 104 |
-| 4 | [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) | 111 | 20 |
-| 5 | [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) | 92 | 28 |
-| 6 | [eMudhra to Exit Global SSL/TLS Certificate Business;](https://news.ycombinator.com/item?id=50194909) | 51 | 13 |
-| 7 | [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | 348 | 110 |
-| 8 | [Startup taps underwater volcano as energy source in "proof point" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/) | 53 | 20 |
-| 9 | [The painter behind Manhattan’s Gilded Age interiors](https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/) | 13 | 0 |
-| 10 | [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities) | 127 | 29 |
+| 1 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 379 | 100 |
+| 2 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 486 | 221 |
+| 3 | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | 87 | 26 |
+| 4 | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | 62 | 12 |
+| 5 | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 179 | 101 |
+| 6 | [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial) | 50 | 20 |
+| 7 | [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey) | 58 | 29 |
+| 8 | [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468) | 88 | 32 |
+| 9 | [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | 398 | 194 |
+| 10 | [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | 425 | 428 |
 
-7 of these stories are new since the previous snapshot (Thu 22 Oct 2026 · 15:37 IST).
+10 of these stories are new since the previous snapshot (Thu 22 Oct 2026 · 19:29 IST).
 
-**Archive:** 24 snapshots on 11 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 25 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
