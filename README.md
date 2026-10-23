@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Fri 23 Oct 2026 · 15:30 IST · Hacker News API
+**Last snapshot:** Fri 23 Oct 2026 · 17:37 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 379 | 100 |
-| 2 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 486 | 221 |
-| 3 | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | 87 | 26 |
-| 4 | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | 62 | 12 |
-| 5 | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 179 | 101 |
-| 6 | [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial) | 50 | 20 |
-| 7 | [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey) | 58 | 29 |
-| 8 | [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468) | 88 | 32 |
-| 9 | [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | 398 | 194 |
-| 10 | [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | 425 | 428 |
+| 1 | [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) | 43 | 22 |
+| 2 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 541 | 122 |
+| 3 | [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania) | 21 | 1 |
+| 4 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 564 | 243 |
+| 5 | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 214 | 127 |
+| 6 | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | 96 | 25 |
+| 7 | [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) | 14 | 6 |
+| 8 | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | 116 | 38 |
+| 9 | [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767) | 86 | 31 |
+| 10 | [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | 468 | 471 |
 
-10 of these stories are new since the previous snapshot (Thu 22 Oct 2026 · 19:29 IST).
+4 of these stories are new since the previous snapshot (Fri 23 Oct 2026 · 15:30 IST).
 
-**Archive:** 25 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 26 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
