@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Fri 23 Oct 2026 · 18:25 IST · Hacker News API
+**Last snapshot:** Fri 23 Oct 2026 · 19:12 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 599 | 132 |
-| 2 | [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) | 89 | 82 |
-| 3 | [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania) | 42 | 4 |
-| 4 | [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) | 78 | 38 |
-| 5 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 588 | 253 |
-| 6 | [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165) | 56 | 27 |
-| 7 | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 234 | 145 |
-| 8 | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | 112 | 42 |
-| 9 | [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767) | 126 | 60 |
-| 10 | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | 131 | 44 |
+| 1 | [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0) | 42 | 7 |
+| 2 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 678 | 138 |
+| 3 | [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter) | 24 | 8 |
+| 4 | [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?) | 67 | 18 |
+| 5 | [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/) | 41 | 21 |
+| 6 | [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) | 151 | 67 |
+| 7 | [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/) | 65 | 45 |
+| 8 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 621 | 258 |
+| 9 | [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165) | 93 | 43 |
+| 10 | [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) | 102 | 113 |
 
-1 of these stories is new since the previous snapshot (Fri 23 Oct 2026 · 17:37 IST).
+5 of these stories are new since the previous snapshot (Fri 23 Oct 2026 · 18:25 IST).
 
-**Archive:** 27 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 28 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
