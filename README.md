@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Fri 23 Oct 2026 · 17:37 IST · Hacker News API
+**Last snapshot:** Fri 23 Oct 2026 · 18:25 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) | 43 | 22 |
-| 2 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 541 | 122 |
-| 3 | [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania) | 21 | 1 |
-| 4 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 564 | 243 |
-| 5 | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 214 | 127 |
-| 6 | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | 96 | 25 |
-| 7 | [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) | 14 | 6 |
-| 8 | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | 116 | 38 |
-| 9 | [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767) | 86 | 31 |
-| 10 | [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | 468 | 471 |
+| 1 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 599 | 132 |
+| 2 | [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) | 89 | 82 |
+| 3 | [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania) | 42 | 4 |
+| 4 | [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) | 78 | 38 |
+| 5 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 588 | 253 |
+| 6 | [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165) | 56 | 27 |
+| 7 | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 234 | 145 |
+| 8 | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | 112 | 42 |
+| 9 | [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767) | 126 | 60 |
+| 10 | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | 131 | 44 |
 
-4 of these stories are new since the previous snapshot (Fri 23 Oct 2026 · 15:30 IST).
+1 of these stories is new since the previous snapshot (Fri 23 Oct 2026 · 17:37 IST).
 
-**Archive:** 26 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 27 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
