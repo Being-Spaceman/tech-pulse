@@ -279,3 +279,13 @@ snapshot_at,source,rank,hn_id,title,url,points,comments
 2026-10-23T19:12:15+05:30,hn,8,50202681,Docker is weird,https://codeandcake.dev/posts/2026-10-22-docker-is-weird,621,258
 2026-10-23T19:12:15+05:30,hn,9,50205816,Remove pgrust: the entry is cheating,https://github.com/ClickHouse/ClickBench/pull/2165,93,43
 2026-10-23T19:12:15+05:30,hn,10,50207115,Is this the new cyber normal?,https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/,102,113
+2026-10-24T15:00:12+05:30,hn,1,50218430,OBS Studio 33,https://github.com/obsproject/obs-studio/releases/tag/33.0.0,136,37
+2026-10-24T15:00:12+05:30,hn,2,50212065,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,907,530
+2026-10-24T15:00:12+05:30,hn,3,50186450,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,31,8
+2026-10-24T15:00:12+05:30,hn,4,50211474,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,878,569
+2026-10-24T15:00:12+05:30,hn,5,50217500,Twelve years of distributed SQLite,https://philipotoole.com/twelve-years-of-distributed-sqlite/,192,23
+2026-10-24T15:00:12+05:30,hn,6,50218195,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,114,11
+2026-10-24T15:00:12+05:30,hn,7,50207910,Apple Music 404 Not Found,https://music.apple.com/this-url-doesnt-exist,757,230
+2026-10-24T15:00:12+05:30,hn,8,50202285,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,1379,234
+2026-10-24T15:00:12+05:30,hn,9,50171379,"A practical guide to AI image generation, from diffusion to agents",https://danielball.com/notes/ai_image_generation.html,89,24
+2026-10-24T15:00:12+05:30,hn,10,50172962,Bringing uv and ty together,https://astral.sh/blog/uv-ty-integration,149,36

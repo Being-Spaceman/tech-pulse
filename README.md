@@ -7,24 +7,24 @@ Built as an always-on side project for scheduled automation, [git scraping](http
 ## Latest
 
 <!-- PULSE:START -->
-**Last snapshot:** Fri 23 Oct 2026 · 19:12 IST · Hacker News API
+**Last snapshot:** Sat 24 Oct 2026 · 15:00 IST · Hacker News API
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0) | 42 | 7 |
-| 2 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 678 | 138 |
-| 3 | [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter) | 24 | 8 |
-| 4 | [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?) | 67 | 18 |
-| 5 | [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/) | 41 | 21 |
-| 6 | [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) | 151 | 67 |
-| 7 | [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/) | 65 | 45 |
-| 8 | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 621 | 258 |
-| 9 | [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165) | 93 | 43 |
-| 10 | [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) | 102 | 113 |
+| 1 | [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) | 136 | 37 |
+| 2 | [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | 907 | 530 |
+| 3 | [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/) | 31 | 8 |
+| 4 | [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | 878 | 569 |
+| 5 | [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) | 192 | 23 |
+| 6 | [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) | 114 | 11 |
+| 7 | [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | 757 | 230 |
+| 8 | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 1,379 | 234 |
+| 9 | [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html) | 89 | 24 |
+| 10 | [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration) | 149 | 36 |
 
-5 of these stories are new since the previous snapshot (Fri 23 Oct 2026 · 18:25 IST).
+9 of these stories are new since the previous snapshot (Fri 23 Oct 2026 · 19:12 IST).
 
-**Archive:** 28 snapshots on 12 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
+**Archive:** 29 snapshots on 13 days since 11 Oct 2026, in monthly CSV files under [data/](data/).
 <!-- PULSE:END -->
 
 ## How it works
